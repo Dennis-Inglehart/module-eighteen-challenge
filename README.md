@@ -4,7 +4,7 @@ This app is a work-in-progress. Sadly, time constraints prevented this exercise 
 
 ## Video Walkthrough
 
-TODO: put a real link here
+[Walkthrough demonstration](https://watch.screencastify.com/v/vxA7EIxx5FzoVoyppGiD)
 
 ## Screenshot
 
