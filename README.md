@@ -8,9 +8,11 @@ TODO: put a real link here
 
 ## Screenshot
 
-TODO: make a screenshot
+The 404 message works exactly as intended.
 
-![module eighteen challenge screencap](./screencap_for_readme.png)
+(So far, that's as close as the app is to functionality)
+
+![module eighteen challenge screencap](./assets/screencap_for_readme.png)
 
 ## Accreditation
 
